@@ -5,4 +5,5 @@ module mp3player {
 
     exports pl.rkulig.mp3player.main to javafx.graphics;
     opens pl.rkulig.mp3player.controller to javafx.fxml;
+    opens pl.rkulig.mp3player.mp3 to javafx.base;
 }
