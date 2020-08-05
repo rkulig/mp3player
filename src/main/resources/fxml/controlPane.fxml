@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.rkulig.mp3player.controller.ControlPaneController">
+    <Button fx:id="previousButton" mnemonicParsing="false" text="Button" />
+    <ToggleButton fx:id="playButton" layoutX="75.0" layoutY="1.0" mnemonicParsing="false" text="ToggleButton" />
+    <Button fx:id="nextButton" layoutX="196.0" mnemonicParsing="false" text="Button" />
+    <Slider fx:id="volumeSlider" layoutX="271.0" layoutY="13.0" />
+    <Slider fx:id="progressSlider" layoutX="425.0" layoutY="13.0" />
+</AnchorPane>
