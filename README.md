@@ -1,2 +1,2 @@
-Odtwarzacz pozwala wczytać wskazane pliki mp3 z dysku, odtworzyć je, przejść do następnego, wrócić do poprzedniego, regulować głośność.
-Aplikacja napisana w Javie SE z wykorzystaniem GUI JavaFX. 
+Odtwarzacz pozwala wczytać pliki mp3 z dysku, odtworzyć je, przejść do następnego/poprzedniego utworu, regulować głośność.
+Aplikacja napisana w Javie, GUI w JavaFX. 
